@@ -5,6 +5,12 @@ To list information about [limits](https://developer.salesforce.com/docs/atlas.e
 
 ### Run
 
+Give execute permission to script:
+
+```
+chmod +x getLimits.sh
+```
+
 Is necessary authenticate first with: 
 
 ```
